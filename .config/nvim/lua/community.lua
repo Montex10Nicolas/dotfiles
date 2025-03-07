@@ -12,7 +12,8 @@ return {
   { import = "astrocommunity.diagnostics.trouble-nvim" },
   { import = "astrocommunity.recipes.vscode-icons" },
   { import = "astrocommunity.icon.mini-icons" },
-  -- { import = "astrocommunity.utility.hover-nvim" },
+  { import = "astrocommunity.markdown-and-latex.render-markdown-nvim" },
+  { import = "astrocommunity.utility.hover-nvim" },
 
   -- Themes
   -- Astromars
